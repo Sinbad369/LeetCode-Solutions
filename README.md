@@ -29,3 +29,19 @@ Solutions are organized by problem and synced automatically upon hitting **Accep
 ├── 0001-contains-duplicate/
 │   ├── README.md       # Problem description & examples
 │   └── Solution.java   # Executable Java code with detailed complexity analysis
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+<!---LeetCode Topics End-->
