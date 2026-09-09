@@ -48,19 +48,19 @@ class Solution {
 
         --*/
 
-        int[] count = new int[26];
+        int[] countBasedOnAscii = new int[26];
         
         /*-- iterate through the strings and increase the number (which was initially 0 at our array) by finding the index via the loop below from string s; decrease the number(which was initially 0 at our array) by finding the loop below from string t
         --*/
         for (int i = 0; i < s.length(); i++){
-            count[s.charAt(i) - 'a']++;
-            count[t.charAt(i) - 'a']--;
+            countBasedOnAscii[s.charAt(i) - 'a']++;
+            countBasedOnAscii[t.charAt(i) - 'a']--;
         }
 
         /*--
         if you remember the question- it says it is valid anagram if there are the same number of identical letters in two string and no more, thus, if at the end of the day, our array of size 26 has all elements 0 again, it is a valid anagram, else invalid.
         --*/
-        for (int val : count){
+        for (int val : countBasedOnAscii){
             if(val != 0){
                 return false;
             }
