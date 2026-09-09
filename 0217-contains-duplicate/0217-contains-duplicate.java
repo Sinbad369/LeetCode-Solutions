@@ -2,7 +2,7 @@
 /*-- 
 1. Simple way is to compare every element and it is the worst way,
 but the solution is guaranteed:
-Time complexity: O(N) bcz it compares each one element, thus N elements in total with the remaining (N-1) elements
+Time complexity: O(N^2) bcz it compares each one element, thus N elements in total with the remaining (N-1) elements
 Space complexity: O(1) bcz you are not creating anything of set, just a primitive pointer, that's it
 
 2. Better approach is sorting and then having a counter on elements or just comparing like brute force. But in this case, sorting is prerequisite
