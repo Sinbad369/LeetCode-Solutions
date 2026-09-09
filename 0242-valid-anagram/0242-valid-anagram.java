@@ -19,8 +19,8 @@ class Solution {
         /*--
         To make it more easy to understand. Look at below:
         letters:    ASCII decimals:     initial array values(not index):      letter - 'a' (array index):
-        b           98                  0                                     0
-        a           97                  0                                     1                                     
+        a           98                  0                                     0
+        b           97                  0                                     1                                     
         c           99                  0                                     2
         d           100                 0                                     3
         e           101                 0                                     4
@@ -67,7 +67,64 @@ class Solution {
         }
 
         return true;
-        }       
-
-
+        }      
 }
+
+/*--
+    Analysis of the solution and comparison with the other methods of solving the problem:
+    
+    Complexities:
+    - Best (Frequency Array): O(N) Time | O(1) Space  <-- IMPLEMENTED
+
+        Mnemonic: "Counting Buckets"
+
+        How?
+        Time --> it just walks through the string s and string t, each of which has O(N), and totals to O(2N)==> O(N)
+        Space --> it just allocates a fixed-size integer array of 26 slots regardless of string length (O(26) ==> O(1))
+
+
+    - Good (HashMap): O(N) Time | O(K) Space  (For full Unicode)
+
+        Mnemonic: "Unlimited Mailbox"
+        
+        How?
+        Time --> Walk both strings once with O(1) map updates (O(N) total)
+        Space --> k slots for unique characters; handles full Unicode (O(k))
+
+    - Better (Sorting): O(N log N) Time | O(N) Space
+
+        Mnemonic: "Alphabetical Lineup"
+
+        How?
+        Time --> Sorting dominates everything (O(nlogn)
+        Space --> Strings are immutable, so copying them into arrays takes O(n)
+
+    - Worst (Brute Force): O(N^2) Time | O(N) Space (Delete chars from string copy)
+
+        Mnemonic: "Search & Cross Out"
+        Time --> Loop n times * scan/delete char in O(n) time (O(n^2))
+        Space --> Needs a mutable string copy (e.g., StringBuilder) (O(n)).
+
+
+--*/
+
+/*--
+    Walkthrough of the solution by the example string s = sukhrob string t = sukhrob:
+    for (int i = 0; i < s.length(); i++){
+        count[s.charAt(i) - 'a']++;
+        count[t.charAt(i) - 'a']--;
+    }
+
+    our s.length() is 7
+    
+    so, we go in loop
+    
+    look at i= 0, s.charAt(0) - 'a' --> s - 'a' --> 115 - 97 = 18, so the array value at index 18, will count up by 1
+    
+    we go on,
+    
+    look at i=0, t.charAt(0) - 'a' --> s - 'a' --> 18 - 0 = 18, so the array value at index 18, will count down by 1
+    so, the array value count[18] became 1 in the count[s.charAt(i) - 'a']++; and became 0 again in the count[t.charAt(i) - 'a']--;
+    
+    we go on, and on till it ends up, in case we have all array values equalled to 0 at the end, we are winner, else, loosing. our words are not valid anagram
+--*/
