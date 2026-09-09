@@ -40,8 +40,14 @@ Solutions are organized by problem and synced automatically upon hitting **Accep
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
