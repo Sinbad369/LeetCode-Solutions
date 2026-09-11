@@ -37,6 +37,7 @@ Solutions are organized by problem and synced automatically upon hitting **Accep
 | ------- |
 | [0075-sort-colors](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0303-range-sum-query-immutable](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [1051-height-checker](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Hash Table
@@ -75,4 +76,12 @@ Solutions are organized by problem and synced automatically upon hitting **Accep
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0075-sort-colors) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
