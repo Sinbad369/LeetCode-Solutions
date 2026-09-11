@@ -35,6 +35,7 @@ Solutions are organized by problem and synced automatically upon hitting **Accep
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [1051-height-checker](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/1051-height-checker) |
 ## Hash Table
@@ -45,6 +46,7 @@ Solutions are organized by problem and synced automatically upon hitting **Accep
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [1051-height-checker](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/1051-height-checker) |
@@ -59,5 +61,14 @@ Solutions are organized by problem and synced automatically upon hitting **Accep
 ## Bubble Sort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [1051-height-checker](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/1051-height-checker) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
