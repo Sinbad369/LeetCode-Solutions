@@ -20,7 +20,7 @@ COMPARISON TABLE:
 Metric                  | Brute Force strStr       | Horspool strStr (this file)
 ------------------------+--------------------------+----------------------------
 Preprocessing           | None                     | Build shift table O(m)
-Comparison direction    | Left to right             | Right to left
+Comparison direction    | Left to right            | Right to left
 Shift on mismatch       | Always +1                | t(text[i]), often skips several
 Worst-case Time         | O(n*m)                   | O(n*m)
 Typical-case Time       | O(n)                     | Sub-linear in practice
@@ -62,8 +62,7 @@ class Solution {
             if (k == m) {
                 return i - m + 1;
             } else {
-                // Shift using the char currently aligned with the pattern's
-                // LAST position -- not the char where the mismatch happened
+                // Shift using the char currently aligned with the pattern's LAST position -- not the char where the mismatch happened
                 i = i + table.getOrDefault(haystack.charAt(i), m);
             }
         }
@@ -79,8 +78,7 @@ class Solution {
             table.put(pattern.charAt(j), m - 1 - j);
         }
         return table;
-        // Any character not put into the table defaults to m at lookup time
-        // via table.getOrDefault(c, m)
+        // Any character not put into the table defaults to m at lookup time via table.getOrDefault(c, m)
     }
 }
 
@@ -132,7 +130,7 @@ Step 2: Build text
 text = s + s = "abcdeabcde"  (n = 10)
 
 Step 3: Build shift table for pattern = "cdeab" (m = 5)
-j=0: table['c'] = 5-1-0 = 4
+j=0: table['c'] = 5-1-0 = 4 // literally, how many lettrs a man should pass till b if he is at c : d e a b ==> so, 4 steps
 j=1: table['d'] = 5-1-1 = 3
 j=2: table['e'] = 5-1-2 = 2
 j=3: table['a'] = 5-1-3 = 1
