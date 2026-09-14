@@ -35,6 +35,7 @@ Solutions are organized by problem and synced automatically upon hitting **Accep
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
@@ -44,6 +45,7 @@ Solutions are organized by problem and synced automatically upon hitting **Accep
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0705-design-hashset](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0705-design-hashset) |
