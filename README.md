@@ -126,6 +126,7 @@ Solutions are organized by problem and synced automatically upon hitting **Accep
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0110-balanced-binary-tree](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
@@ -137,6 +138,7 @@ Solutions are organized by problem and synced automatically upon hitting **Accep
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0110-balanced-binary-tree](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Stack
@@ -147,4 +149,5 @@ Solutions are organized by problem and synced automatically upon hitting **Accep
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0110-balanced-binary-tree](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
