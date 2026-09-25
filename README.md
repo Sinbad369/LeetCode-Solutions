@@ -68,6 +68,7 @@ Solutions are organized by problem and synced automatically upon hitting **Accep
 | [0242-valid-anagram](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0686-repeated-string-match](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0796-rotate-string) |
+| [1143-longest-common-subsequence](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 ## Counting Sort
 |  |
 | ------- |
@@ -162,4 +163,9 @@ Solutions are organized by problem and synced automatically upon hitting **Accep
 | [0198-house-robber](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0312-burst-balloons) |
+| [1143-longest-common-subsequence](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
