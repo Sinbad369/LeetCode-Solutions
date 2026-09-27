@@ -36,6 +36,7 @@ Solutions are organized by problem and synced automatically upon hitting **Accep
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0064-minimum-path-sum](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0198-house-robber](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
@@ -161,6 +162,7 @@ Solutions are organized by problem and synced automatically upon hitting **Accep
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0312-burst-balloons) |
@@ -182,4 +184,8 @@ Solutions are organized by problem and synced automatically upon hitting **Accep
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0322-coin-change) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
