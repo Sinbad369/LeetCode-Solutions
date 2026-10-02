@@ -105,7 +105,7 @@ FULL LINE-BY-LINE CODE WALKTHROUGH (n = 4)
 FULL DP TABLE VISUALIZATION (n = 4)
 ================================================================================
 
-          j=1   j=2   j=3   j=4
+          j=1    j=2    j=3   j=4
 i=1     [  0 ] [  1 ] [  2 ] [  4 ]  <-- Top-Right Corner dp[1][4] = 4
 i=2     [  - ] [  0 ] [  2 ] [  4 ]
 i=3     [  - ] [  - ] [  0 ] [  3 ]
