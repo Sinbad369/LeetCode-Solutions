@@ -170,6 +170,7 @@ Solutions are organized by problem and synced automatically upon hitting **Accep
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0322-coin-change) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [1049-last-stone-weight-ii](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/1049-last-stone-weight-ii) |
@@ -207,4 +208,16 @@ Solutions are organized by problem and synced automatically upon hitting **Accep
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0494-target-sum) |
+## Math
+|  |
+| ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
+## Minimax
+|  |
+| ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
 <!---LeetCode Topics End-->
