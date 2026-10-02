@@ -44,6 +44,7 @@ Solutions are organized by problem and synced automatically upon hitting **Accep
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0705-design-hashset](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0705-design-hashset) |
 | [1051-height-checker](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -167,6 +168,7 @@ Solutions are organized by problem and synced automatically upon hitting **Accep
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [1143-longest-common-subsequence](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 ## Longest Common Subsequence
 |  |
@@ -180,6 +182,7 @@ Solutions are organized by problem and synced automatically upon hitting **Accep
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -188,4 +191,8 @@ Solutions are organized by problem and synced automatically upon hitting **Accep
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
