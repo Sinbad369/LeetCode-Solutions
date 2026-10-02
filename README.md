@@ -47,6 +47,7 @@ Solutions are organized by problem and synced automatically upon hitting **Accep
 | [0416-partition-equal-subset-sum](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0705-design-hashset](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0705-design-hashset) |
+| [1049-last-stone-weight-ii](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/1049-last-stone-weight-ii) |
 | [1051-height-checker](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Hash Table
@@ -171,6 +172,7 @@ Solutions are organized by problem and synced automatically upon hitting **Accep
 | [0322-coin-change](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0494-target-sum) |
+| [1049-last-stone-weight-ii](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/1049-last-stone-weight-ii) |
 | [1143-longest-common-subsequence](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 ## Longest Common Subsequence
 |  |
@@ -186,6 +188,7 @@ Solutions are organized by problem and synced automatically upon hitting **Accep
 | [0322-coin-change](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0494-target-sum) |
+| [1049-last-stone-weight-ii](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/1049-last-stone-weight-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -199,6 +202,7 @@ Solutions are organized by problem and synced automatically upon hitting **Accep
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0494-target-sum) |
+| [1049-last-stone-weight-ii](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/1049-last-stone-weight-ii) |
 ## Backtracking
 |  |
 | ------- |
