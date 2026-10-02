@@ -138,13 +138,12 @@ Evaluating which target sums can be formed using all numbers {1, 5, 11, 5}:
 FULL DP TABLE VISUALIZATION (nums = [1, 5, 11, 5], Target W = 11)
 ================================================================================
 
-          j=0   j=1   j=2   j=3   j=4   j=5   j=6   j=7   j=8   j=9   j=10  j=11
+          j=0    j=1    j=2    j=3    j=4    j=5    j=6    j=7    j=8   j=9    j=10   j=11
 i=0     [  T ] [  F ] [  F ] [  F ] [  F ] [  F ] [  F ] [  F ] [  F ] [  F ] [  F ] [  F ]
 i=1 (1) [  T ] [  T ] [  F ] [  F ] [  F ] [  F ] [  F ] [  F ] [  F ] [  F ] [  F ] [  F ]
 i=2 (5) [  T ] [  T ] [  F ] [  F ] [  F ] [  T ] [  T ] [  F ] [  F ] [  F ] [  F ] [  F ]
 i=3 (11)[  T ] [  T ] [  F ] [  F ] [  F ] [  T ] [  T ] [  F ] [  F ] [  F ] [  F ] [  T ]
 i=4 (5) [  T ] [  T ] [  F ] [  F ] [  F ] [  T ] [  T ] [  F ] [  F ] [  F ] [  T ] [  T ]
-                                                                                ^^^
                                                                           Result: dp[4][11] = true
 ================================================================================
 */
