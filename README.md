@@ -162,6 +162,7 @@ Solutions are organized by problem and synced automatically upon hitting **Accep
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
+| [1462-course-schedule-iv](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/1462-course-schedule-iv) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -183,6 +184,7 @@ Solutions are organized by problem and synced automatically upon hitting **Accep
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0322-coin-change) |
+| [1462-course-schedule-iv](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/1462-course-schedule-iv) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -220,4 +222,12 @@ Solutions are organized by problem and synced automatically upon hitting **Accep
 |  |
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [1462-course-schedule-iv](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/1462-course-schedule-iv) |
+## Topological Sort
+|  |
+| ------- |
+| [1462-course-schedule-iv](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/1462-course-schedule-iv) |
 <!---LeetCode Topics End-->
