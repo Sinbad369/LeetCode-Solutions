@@ -36,6 +36,7 @@ Solutions are organized by problem and synced automatically upon hitting **Accep
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0055-jump-game](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0198-house-robber](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0198-house-robber) |
@@ -168,6 +169,7 @@ Solutions are organized by problem and synced automatically upon hitting **Accep
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -254,5 +256,6 @@ Solutions are organized by problem and synced automatically upon hitting **Accep
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
