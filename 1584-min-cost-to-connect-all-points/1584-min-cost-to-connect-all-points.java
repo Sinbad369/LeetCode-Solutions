@@ -39,7 +39,7 @@ class Solution {
         }
 
         // line1: track visited vertices (V_T set)
-        boolean[] inMinimumSearchTree = new boolean[n];
+        boolean[] inMinimumSpanningTree = new boolean[n];
 
         // Priority Queue stores pairs: [edge_weight, target_vertex_u]
         PriorityQueue<int[]> pq = new PriorityQueue<>((a, b) -> Integer.compare(a[0], b[0]));
@@ -57,18 +57,18 @@ class Solution {
             int u = curr[1];
 
             // line4: if vertex u is already in V_T, skip to avoid cycles
-            if (inMinimumSearchTree[u]) {
+            if (inMinimumSpanningTree[u]) {
                 continue;
             }
 
             // line5: add vertex u to V_T and accumulate MinimumSearchTree cost
-            inMinimumSearchTree[u] = true;
+            inMinimumSpanningTree[u] = true;
             totalCost += weight;
             edgesAdded++;
 
             // line6: evaluate all outgoing edges from u to unvisited vertices (V - V_T)
             for(int v = 0; v < n; v++){
-                if(!inMinimumSearchTree[v]){
+                if(!inMinimumSpanningTree[v]){
                     int dist = Math.abs(points[u][0] - points[v][0]) 
                         + Math.abs(points[u][1] - points[v][1]);
                     pq.add(new int[]{dist, v});
@@ -92,13 +92,13 @@ points = [[0,0], [2,2], [3,10], [5,2]]
   * Point 1: [2,2]
   * Point 2: [3,10]
   * Point 3: [5,2]
-- inMinimumSearchTree = [false, false, false, false]
+- inMinimumSpanningTree = [false, false, false, false]
 - Push starting node [weight=0, vertex=0] to Priority Queue.
 
 --- PRIM'S ITERATIONS ---
 
 - Iteration 1 (Pop vertex 0, weight 0):
-  * inMinimumSearchTree[0] = true, totalCost = 0
+  * inMinimumSpanningTree[0] = true, totalCost = 0
   * Add edges from 0 to all other points:
     - 0 -> 1: dist(|0-2| + |0-2|) = 4 -> Push [4, 1]
     - 0 -> 2: dist(|0-3| + |0-10|) = 13 -> Push [13, 2]
@@ -106,21 +106,21 @@ points = [[0,0], [2,2], [3,10], [5,2]]
   * PQ candidates: {[4, 1], [7, 3], [13, 2]}
 
 - Iteration 2 (Pop minimum candidate [4, 1] -> vertex 1):
-  * inMinimumSearchTree[1] = true, totalCost = 0 + 4 = 4
+  * inMinimumSpanningTree[1] = true, totalCost = 0 + 4 = 4
   * Add edges from 1 to unvisited points {2, 3}:
     - 1 -> 2: dist(|2-3| + |2-10|) = 9 -> Push [9, 2]
     - 1 -> 3: dist(|2-5| + |2-2|) = 3 -> Push [3, 3]
   * PQ candidates: {[3, 3], [7, 3], [9, 2], [13, 2]}
 
-- inMinimumSearchTree 3 (Pop minimum candidate [3, 3] -> vertex 3):
-  * inMinimumSearchTree[3] = true, totalCost = 4 + 3 = 7
+- inMinimumSpanningTree 3 (Pop minimum candidate [3, 3] -> vertex 3):
+  * inMinimumSeainMinimumSpanningTreerchTree[3] = true, totalCost = 4 + 3 = 7
   * Add edges from 3 to unvisited point {2}:
     - 3 -> 2: dist(|5-3| + |2-10|) = 10 -> Push [10, 2]
   * PQ candidates: {[7, 3] (skip), [9, 2], [10, 2], [13, 2]}
 
-- Iteration 4 (Pop [7, 3] -> already inMinimumSearchTree, skip. Pop [9, 2] -> vertex 2):
-  * inMinimumSearchTree[2] = true, totalCost = 7 + 9 = 16
-  * All 4 points added to MinimumSearchTree -> Terminate!
+- Iteration 4 (Pop [7, 3] -> already inMinimumSpanningTree, skip. Pop [9, 2] -> vertex 2):
+  * inMinimumSpanningTree[2] = true, totalCost = 7 + 9 = 16
+  * All 4 points added to MinimumSpanningTree -> Terminate!
 
 --- RETURN PHASE ---
 - Returns totalCost = 16.
