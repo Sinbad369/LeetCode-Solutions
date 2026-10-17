@@ -52,6 +52,7 @@ Solutions are organized by problem and synced automatically upon hitting **Accep
 | [1049-last-stone-weight-ii](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/1049-last-stone-weight-ii) |
 | [1051-height-checker](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 ## Hash Table
 |  |
 | ------- |
@@ -233,6 +234,7 @@ Solutions are organized by problem and synced automatically upon hitting **Accep
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1462-course-schedule-iv](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/1462-course-schedule-iv) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
 | ------- |
@@ -258,4 +260,24 @@ Solutions are organized by problem and synced automatically upon hitting **Accep
 | ------- |
 | [0055-jump-game](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
+## Union-Find
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
