@@ -70,6 +70,7 @@ Solutions are organized by problem and synced automatically upon hitting **Accep
 | [0435-non-overlapping-intervals](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [1051-height-checker](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 ## String
 |  |
 | ------- |
@@ -234,6 +235,7 @@ Solutions are organized by problem and synced automatically upon hitting **Accep
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1462-course-schedule-iv](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/1462-course-schedule-iv) |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
@@ -263,21 +265,30 @@ Solutions are organized by problem and synced automatically upon hitting **Accep
 ## Union-Find
 |  |
 | ------- |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 ## Prim's Algorithm
 |  |
 | ------- |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 ## Kruskal's Algorithm
 |  |
 | ------- |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 ## Borůvka's Algorithm
 |  |
 | ------- |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
+## Strongly Connected Component
+|  |
+| ------- |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 <!---LeetCode Topics End-->
