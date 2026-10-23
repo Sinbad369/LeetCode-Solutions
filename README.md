@@ -167,6 +167,7 @@ Solutions are organized by problem and synced automatically upon hitting **Accep
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
+| [0743-network-delay-time](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [1462-course-schedule-iv](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/1462-course-schedule-iv) |
 ## Dynamic Programming
 |  |
@@ -192,6 +193,7 @@ Solutions are organized by problem and synced automatically upon hitting **Accep
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0322-coin-change) |
+| [0743-network-delay-time](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [1462-course-schedule-iv](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/1462-course-schedule-iv) |
 ## Knapsack Problem
 |  |
@@ -233,6 +235,7 @@ Solutions are organized by problem and synced automatically upon hitting **Accep
 ## Graph Theory
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1462-course-schedule-iv](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/1462-course-schedule-iv) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
@@ -244,10 +247,12 @@ Solutions are organized by problem and synced automatically upon hitting **Accep
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Bellman–Ford Algorithm
 |  |
@@ -291,4 +296,8 @@ Solutions are organized by problem and synced automatically upon hitting **Accep
 |  |
 | ------- |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
