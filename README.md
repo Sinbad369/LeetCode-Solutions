@@ -49,6 +49,7 @@ Solutions are organized by problem and synced automatically upon hitting **Accep
 | [0435-non-overlapping-intervals](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0705-design-hashset](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0705-design-hashset) |
+| [1046-last-stone-weight](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 | [1049-last-stone-weight-ii](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/1049-last-stone-weight-ii) |
 | [1051-height-checker](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -300,4 +301,5 @@ Solutions are organized by problem and synced automatically upon hitting **Accep
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/0743-network-delay-time) |
+| [1046-last-stone-weight](https://github.com/Sinbad369/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
